@@ -1,0 +1,8 @@
+/.idea
+/.claude/skills/.idea
+/.claude/skills/backend-log-query/.idea
+/.claude/skills/backend-log-query/scripts/sessionid
+/.claude/skills/frontend-log-query/scripts/sessionid
+__pycache__/
+*.pyc
+logs/
